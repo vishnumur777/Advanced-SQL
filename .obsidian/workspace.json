@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d78c18862de8a99c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c952fa63d51fe746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b1e765e11b629c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced SQL Topics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10acf6b7c539016e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4244284f97dcb28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33fb5a2693d3e5a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5b1a7ccbdd9989c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0628b3b3f24ba094",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f83a850da1b0014",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c1b153f3849cc54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f095cf6d36e3b085",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Advanced SQL Topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ab580992c4e5238",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Advanced SQL Topics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c40b53ba9ded569",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1205aa8ff7082042",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Advanced SQL Topics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9b1e765e11b629c6",
+  "lastOpenFiles": [
+    "Group By and Having clause.md",
+    "Advanced SQL Topics.md",
+    "Untitled",
+    "Window Functions.md",
+    "Pasted image 20230708221938.png",
+    "Pasted image 20230708221905.png",
+    "Pasted image 20230708220932.png",
+    "Pasted image 20230708220521.png",
+    "Pasted image 20230707232907.png",
+    "Pasted image 20230707231827.png",
+    "SELECT.md",
+    "Pasted image 20230707225909.png",
+    "Pasted image 20230707225305.png",
+    "Common Table Expressions - (CTE).md"
+  ]
+}
